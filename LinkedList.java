@@ -49,7 +49,7 @@ public class LinkedList {
 
     }
 
-    // removeAtBack
+    // removeAt
     public void removeAt(int index) {
 
         Node n = head;
